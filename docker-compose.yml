@@ -1,5 +1,5 @@
 services:
-  okvtwo:
+  quxin5605:
     build: .
     shm_size: 2.6gb
     ports:
